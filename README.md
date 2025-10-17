@@ -11,18 +11,18 @@
 I'm a passionate **Full-Stack Developer** specializing in modern web technologies. I build scalable, high-performance applications with clean, efficient code. Always eager to learn new technologies and contribute to innovative projects!
 
 ### 💻 Backend Expertise
-- **Runtime & Frameworks:** Node.js, Express.js, NestJS, Fastify
+- **Node.js:** Express.js, NestJS, Fastify
+- **Python:** Django, Django REST Framework, FastAPI
+- **PHP:** Laravel, Symfony
 - **Databases:** MongoDB, PostgreSQL, MySQL, Redis
 - **Authentication:** JWT, OAuth, Passport.js
 - **Architecture:** RESTful APIs, GraphQL, Microservices
-- **Tools:** Docker, PM2, Nginx, AWS, Postman
+- **DevOps:** Docker, PM2, Nginx, AWS, CI/CD
 
 ### 🎨 Frontend Skills
-- **Frameworks:** React.js, Vue.js, Nuxt.js, Next.js
+- **Frameworks:** React.js, Vue.js, Next.js
 - **Languages:** JavaScript, TypeScript
-- **State Management:** Redux, Pinia, Zustand
-- **Styling:** Tailwind CSS, Bootstrap, Sass, CSS3
-- **Tools:** Webpack, Vite, Figma
+- **Styling:** Tailwind CSS, Bootstrap
 
 
 
@@ -53,9 +53,12 @@ I'm a passionate **Full-Stack Developer** specializing in modern web technologie
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
 </p>
 
 ### Databases & Storage
@@ -72,7 +75,6 @@ I'm a passionate **Full-Stack Developer** specializing in modern web technologie
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
