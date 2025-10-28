@@ -190,13 +190,13 @@ hobbies: ["Gaming", "Movies", "Coding"]
 ## 🌐 Connect with me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/iftixorme/">
+  <a href="https://www.linkedin.com/in/pohlmary/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://t.me/Iftixorme">
+  <a href="https://t.me/pohlmary">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://www.instagram.com/iftixorme">
+  <a href="https://www.instagram.com/pohlmary">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
