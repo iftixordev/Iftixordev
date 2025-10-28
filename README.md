@@ -16,8 +16,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ```yaml
-name: Jasurjon Toshtemirov
-located_in: Uzbekistan
+name: Iftixor
+located_in: Uzbekistan Samarcand
 current_job: Full Stack Developer
 education:
   [
